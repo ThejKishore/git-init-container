@@ -1,0 +1,4 @@
+keyVaultURL: "https://thej-eastus-learn.vault.azure.net/"
+secretMap:
+  mysecretname: "key.secret.mysecretname"
+  mysecretname2: "key.secret.mysecretname2"

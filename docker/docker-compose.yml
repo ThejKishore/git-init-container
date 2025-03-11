@@ -1,0 +1,6 @@
+services:
+  fetch-secret:
+    container_name: fetch-secrets
+    image: tk/secrets-test
+    environment:
+      - AZURE_TENANT_ID=1c4a7aa0-986f-4a06-97fc-7ed0b290ca60
